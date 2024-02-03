@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skillwillhomework17/static/css/main.f855e6bc.css",
+    "main.js": "/skillwillhomework17/static/js/main.3b284078.js",
+    "static/js/592.1ff572fe.chunk.js": "/skillwillhomework17/static/js/592.1ff572fe.chunk.js",
+    "index.html": "/skillwillhomework17/index.html",
+    "main.f855e6bc.css.map": "/skillwillhomework17/static/css/main.f855e6bc.css.map",
+    "main.3b284078.js.map": "/skillwillhomework17/static/js/main.3b284078.js.map",
+    "592.1ff572fe.chunk.js.map": "/skillwillhomework17/static/js/592.1ff572fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3b284078.js"
+  ]
+}
