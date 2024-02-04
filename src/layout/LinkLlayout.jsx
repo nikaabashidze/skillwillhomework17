@@ -10,6 +10,7 @@ const linkLayout = () => {
       <div className='navbar'>
     <Link to={'/skillwillhomework17/'}>HOME</Link>
     <Link to={'/skillwillhomework17/about'}>ABOUT</Link>
+      
     </div>
     <Outlet/>
     </div>
