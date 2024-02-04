@@ -1,0 +1,12 @@
+.Homeppage {
+    display: block;
+
+}
+.Homeppage img {
+
+    width: 80%;
+    height: 300px;
+    border-radius: 10px;
+    border: 4px solid rgb(86, 74, 74);
+}
+

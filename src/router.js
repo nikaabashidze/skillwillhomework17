@@ -1,17 +1,41 @@
 
-import MainPage from "./pages/mainPage/MainPPage";
-import AboutPage from "./pages/aboutPage/AboutPPage";
+import AboutPage from "./pages/AboutPage/AboutPage";
+import AboutParam from "./pages/AboutParams/AboutPParam";
+import LinkLayout from "./layout/LinkLlayout";
+import Homeppage from "./pages/homepage/Homeppage";
+import Errorpage from "./pages/errorpage/Errorpage";
 
 const router  = [
   
- { 
-    element: <MainPage/>,
-    path: '/',
- },
  
  {
-    element: <AboutPage/>, 
-    path: '/about'
+    element: <LinkLayout/>, 
+    path: '/',
+    children:[
+        { 
+            element: <Homeppage/>,
+            index:true
+         },
+         
+         
+         {
+            element: <AboutPage/>, 
+            path: '/about'
+         },
+
+         {
+            element: <AboutParam/>, 
+            path: '/about/:factId'
+         },
+
+
+         {
+            element: <Errorpage/>,
+            path:'*'
+         }
+
+
+    ]
  }
 
 ]
