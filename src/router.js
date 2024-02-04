@@ -10,7 +10,7 @@ const router  = [
  
  {
     element: <LinkLayout/>, 
-    path: '/',
+    path: '/skillwillhomework17/',
     children:[
         { 
             element: <Homeppage/>,
@@ -20,12 +20,12 @@ const router  = [
          
          {
             element: <AboutPage/>, 
-            path: '/about'
+            path: '/skillwillhomework17/about'
          },
 
          {
             element: <AboutParam/>, 
-            path: '/about/:factId'
+            path: '/skillwillhomework17/about/:factId'
          },
 
 

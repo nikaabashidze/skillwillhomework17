@@ -8,8 +8,8 @@ const linkLayout = () => {
     <div className='linkLayout'>
       
       <div className='navbar'>
-    <Link to={'/'}>HOME</Link>
-    <Link to={'/about'}>ABOUT</Link>
+    <Link to={'/skillwillhomework17/'}>HOME</Link>
+    <Link to={'/skillwillhomework17/about'}>ABOUT</Link>
     </div>
     <Outlet/>
     </div>
