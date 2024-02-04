@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/skillwillhomework17/static/css/main.b7dbcb67.css",
-    "main.js": "/skillwillhomework17/static/js/main.405aa289.js",
+    "main.css": "/skillwillhomework17/static/css/main.3a385c4a.css",
+    "main.js": "/skillwillhomework17/static/js/main.b406d4ae.js",
     "static/js/592.1ff572fe.chunk.js": "/skillwillhomework17/static/js/592.1ff572fe.chunk.js",
     "static/media/sherlock-holmes-trends-twitter.webp": "/skillwillhomework17/static/media/sherlock-holmes-trends-twitter.ccb3c084956c8dac78a6.webp",
     "index.html": "/skillwillhomework17/index.html",
-    "main.b7dbcb67.css.map": "/skillwillhomework17/static/css/main.b7dbcb67.css.map",
-    "main.405aa289.js.map": "/skillwillhomework17/static/js/main.405aa289.js.map",
+    "main.3a385c4a.css.map": "/skillwillhomework17/static/css/main.3a385c4a.css.map",
+    "main.b406d4ae.js.map": "/skillwillhomework17/static/js/main.b406d4ae.js.map",
     "592.1ff572fe.chunk.js.map": "/skillwillhomework17/static/js/592.1ff572fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7dbcb67.css",
-    "static/js/main.405aa289.js"
+    "static/css/main.3a385c4a.css",
+    "static/js/main.b406d4ae.js"
   ]
 }
