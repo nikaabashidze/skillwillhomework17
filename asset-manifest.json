@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/skillwillhomework17/static/css/main.3a385c4a.css",
+    "main.css": "/skillwillhomework17/static/css/main.df9ce437.css",
     "main.js": "/skillwillhomework17/static/js/main.b406d4ae.js",
     "static/js/592.1ff572fe.chunk.js": "/skillwillhomework17/static/js/592.1ff572fe.chunk.js",
     "static/media/sherlock-holmes-trends-twitter.webp": "/skillwillhomework17/static/media/sherlock-holmes-trends-twitter.ccb3c084956c8dac78a6.webp",
     "index.html": "/skillwillhomework17/index.html",
-    "main.3a385c4a.css.map": "/skillwillhomework17/static/css/main.3a385c4a.css.map",
+    "main.df9ce437.css.map": "/skillwillhomework17/static/css/main.df9ce437.css.map",
     "main.b406d4ae.js.map": "/skillwillhomework17/static/js/main.b406d4ae.js.map",
     "592.1ff572fe.chunk.js.map": "/skillwillhomework17/static/js/592.1ff572fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a385c4a.css",
+    "static/css/main.df9ce437.css",
     "static/js/main.b406d4ae.js"
   ]
 }
