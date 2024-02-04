@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/skillwillhomework17//about/static/css/main.3a385c4a.css",
-    "main.js": "/skillwillhomework17//about/static/js/main.26b53da8.js",
-    "static/js/592.1ff572fe.chunk.js": "/skillwillhomework17//about/static/js/592.1ff572fe.chunk.js",
-    "static/media/sherlock-holmes-trends-twitter.webp": "/skillwillhomework17//about/static/media/sherlock-holmes-trends-twitter.ccb3c084956c8dac78a6.webp",
-    "index.html": "/skillwillhomework17//about/index.html",
-    "main.3a385c4a.css.map": "/skillwillhomework17//about/static/css/main.3a385c4a.css.map",
-    "main.26b53da8.js.map": "/skillwillhomework17//about/static/js/main.26b53da8.js.map",
-    "592.1ff572fe.chunk.js.map": "/skillwillhomework17//about/static/js/592.1ff572fe.chunk.js.map"
+    "main.css": "/skillwillhomework17/static/css/main.3a385c4a.css",
+    "main.js": "/skillwillhomework17/static/js/main.b406d4ae.js",
+    "static/js/592.1ff572fe.chunk.js": "/skillwillhomework17/static/js/592.1ff572fe.chunk.js",
+    "static/media/sherlock-holmes-trends-twitter.webp": "/skillwillhomework17/static/media/sherlock-holmes-trends-twitter.ccb3c084956c8dac78a6.webp",
+    "index.html": "/skillwillhomework17/index.html",
+    "main.3a385c4a.css.map": "/skillwillhomework17/static/css/main.3a385c4a.css.map",
+    "main.b406d4ae.js.map": "/skillwillhomework17/static/js/main.b406d4ae.js.map",
+    "592.1ff572fe.chunk.js.map": "/skillwillhomework17/static/js/592.1ff572fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a385c4a.css",
-    "static/js/main.26b53da8.js"
+    "static/js/main.b406d4ae.js"
   ]
 }
